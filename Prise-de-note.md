@@ -21,6 +21,7 @@ Other:
 https://www.codequoi.com/architecture-du-reseau-internet/  
 https://www.codequoi.com/adresses-ipv4-routage-et-masques-de-sous-reseau/  
 http://sdz.tdct.org/sdz/apprenez-le-fonctionnement-des-reseaux-tcp-ip.html  
+https://cidr.xyz/  
 
 
 ## Résumé de prise de note   
