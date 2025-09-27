@@ -23,6 +23,9 @@ https://www.codequoi.com/adresses-ipv4-routage-et-masques-de-sous-reseau/
 http://sdz.tdct.org/sdz/apprenez-le-fonctionnement-des-reseaux-tcp-ip.html  
 https://cidr.xyz/  
 
+Lien pour calculer possible range:  
+https://www.calculator.net/ip-subnet-calculator.html?cclass=any&csubnet=28&cip=93.198.14.2&ctype=ipv4&printit=0&x=97&y=13  
+
 
 ## Résumé de prise de note   
 ### *Compte rendu : Internet, Réseaux et Protocoles*
