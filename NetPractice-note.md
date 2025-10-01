@@ -16,6 +16,7 @@ https://42-cursus.gitbook.io/guide/4-rank-04/netpractice/theory
 Video:  
 https://www.youtube.com/watch?app=desktop&v=HQUw0CfQWAM&t=0s  
 https://www.youtube.com/watch?v=OTwp3xtd4dg  
+https://www.youtube.com/watch?v=5WfiTHiU4x8&list=PLIhvC56v63IKrRHh3gvZZBAGvsvOhwrRF  
 
 Other:  
 https://www.codequoi.com/architecture-du-reseau-internet/  
