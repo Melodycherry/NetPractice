@@ -4,7 +4,7 @@
 
 ### Explications:  
 
-Attention parce que A et B sont donnes par defaut avec une adresse privee donc internet pas possible. Modifier ca pour que ca marche.  
+Attention parce que A1, B1 et C1 sont donnes par defaut avec une adresse privee donc internet pas possible. Modifier ca pour que ca marche.  
 
 Mettre les meme mask en fonction des differents reseaux. 
 
